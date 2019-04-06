@@ -2,7 +2,7 @@ package Alien::Electron;
 
 use strict;
 
-our $VERSION = '0.201';
+our $VERSION = '0.202';
 
 use File::ShareDir;
 
